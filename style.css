@@ -39,3 +39,16 @@ header {
     margin: 0 10px;
     font-weight: 600;
 }
+
+.navigation a:hover, 
+.navigation a.active {
+    background: #359381;
+    color: #fff;
+}
+
+.parallax {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+}
