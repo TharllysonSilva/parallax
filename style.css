@@ -87,3 +87,11 @@ header {
     color: #fff;
     font-weight: 300;
 }
+
+footer {
+    background: #003329;
+    height: 100em;
+   /* margin-top: 10em;*/
+    position: relative;
+  }
+  
